@@ -13,7 +13,7 @@ We integrate programming, experimental methods, statistics, and machine learning
 - **EMGFlow**: [github.com/WiIIson/EMGFlow-Python-Package](https://github.com/WiIIson/EMGFlow-Python-Package)
 - **RespFlow**: [github.com/affectivedatascience/respflow](https://github.com/affectivedatascience/respflow)
 - **PyFAME**: [github.com/Gavin-Bosman/PyFAME](https://github.com/Gavin-Bosman/PyFAME)
-- **PyOcclusion**: [github.com/BohdanSynytskyi/PyOcclusion](https://github.com/BohdanSynytskyi/PyOcclusion)
+- **PyOcclusion**: [github.com/affectivedatascience/PyOcclusion](https://github.com/affectivedatascience/PyOcclusion)
 
 ## Datasets and standards
 
